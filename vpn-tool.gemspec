@@ -6,7 +6,6 @@ Gem::Specification.new do |spec|
   spec.summary       = "VPN gateway management CLI"
   spec.description   = "Ruby command-line client for VPN gateway management with local authentication and daemon support."
   spec.homepage      = "https://github.com/jjjm03299-wq/vpn_tool"
-  spec.source_code_uri = "https://github.com/jjjm03299-wq/vpn_tool"
   spec.license       = "MIT"
   spec.required_ruby_version = ">= 3.0"
 
